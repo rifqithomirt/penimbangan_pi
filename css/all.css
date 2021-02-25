@@ -1,0 +1,113 @@
+.bg_light1 {
+    background-color: #2F3742;
+}
+
+.bg_dark1 {
+    background-color: #151621;
+}
+
+.bg_brown1{
+    background-color: #c5a775 !important;
+}
+
+.outline_brown1 {
+    background-color: white;
+    border: solid 2px  #c5a775 !important;
+    color: #c5a775;
+}
+
+.bg_red1 {
+    background-color: #e84362;
+}
+
+.bg_blue1 {
+    background-color: #61c9c8;
+}
+.fullwidth {
+    width: 100%;
+}
+
+.mt-0 {
+    margin-top: 0px;
+}
+.mt-2 {
+    margin-top: 4%;
+}
+
+.menu {
+    margin: 0px 0px 0px 0px;
+}
+
+.col .row   {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.label_list {
+    font-size: smaller;
+}
+
+.row_label_list {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.item_list {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.daftar_obat tbody tr {
+    border-bottom: solid 1px white;
+}
+
+.daftar_obat tbody tr td:first-child{
+    width: 50%;
+}
+
+.bdg {
+    display: inline-block;
+    float: none;
+    margin-left: auto;
+    min-width: 4rem;
+    padding: 0 6px;
+    margin-left: 14px;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 22px;
+    height: 22px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.button_collection {
+    margin-top: 20px;
+}
+
+.button_collection .btn {
+    border-radius: 10px;
+}
+
+.button_action {
+    color:#c5a775 !important;
+    background-color: white;
+    border: solid 2px #c5a775 ; 
+}
+
+div.waves-effect {
+    display: block;
+}
+
+#modal_reset .row .col, #modal_finish .row .col {
+    padding-top: 10px;
+}
+
+
+#modal_start .row .col {
+    padding-top: 3px;
+}
+
+.btn-border {
+    border-radius: 15px;
+}
